@@ -6,6 +6,6 @@ authors:
     given-names: Anna Katherina
     orcid: "https://orcid.org/0009-0008-4236-5928"
 title: "Seizure Detection Device"
-version: 1.0.0
-date-released: 2025-11-26
+version: 2.0.0
+date-released: 2025-07-22
 url: "https://github.com/AHaMomentum/seizure_detection_device"
