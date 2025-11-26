@@ -1,0 +1,11 @@
+type: dataset
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Hardenbicker
+    given-names: Anna Katherina
+    orcid: "https://orcid.org/0009-0008-4236-5928"
+title: "Seizure Detection Device"
+version: 1.0.0
+date-released: 2025-11-26
+url: "https://github.com/AHaMomentum/seizure_detection_device"
