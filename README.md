@@ -12,6 +12,14 @@ This repository comprises the source code to the algorithmic approach for a devi
       <td>Accelerometer</td>
       <td>MPU-6050 Inertial Measurement Unit</td>
     </tr>
+    <tr>
+      <td>CPU</td>
+      <td>Raspberry Pi Zero 2 W</td>
+    </tr>
+    <tr>
+      <td>Python interpreter</td>
+      <td>Pythonv3.8 or newer</td>
+    </tr>
   </table>
 </details>
 
@@ -23,12 +31,12 @@ This repository comprises the source code to the algorithmic approach for a devi
         Main module that including the classification algorithm and alerting the AWS IoT Core cloud service. It is executed as a Linux systemd service.
       </li>
       <li>
-        <h4>sampling.py</h4>
-        Optional module to sample and integrate new data in the data set that the machine learning model is trained on (CSV file "TimeSeries_DataFrame.csv"). 
+        <h4>preprocessing.py</h4>
+        Processes the Dataset: Epilepsy by Villar et al. into a CSV file "TimeSeries_DataFrame.csv" to train the machine learning model.
       </li>
       <li>
-        <h4>TimeSeries_DataFrame.csv</h4>
-        CSV file of the processed data ready to train the machine learning model on.
+        <h4>sampling.py</h4>
+        Optional module to sample and integrate new data in the CSV file "TimeSeries_DataFrame.csv".
       </li>
     </ul>
 </details>
