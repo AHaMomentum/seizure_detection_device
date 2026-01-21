@@ -28,7 +28,7 @@ Preconditions:
 </table>
 <ul>
   <li>Configure the raspberry device as an AWS IoT Core thing</li>
-  <li>Copy the repository on your device, by downloading manually or<a href=https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository> cloning with git</a>.</li>
+  <li>Copy the repository on your device, path /home/admin/..., by downloading manually or<a href=https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository> cloning with git</a>.</li>
   <li>Place your AWS IoT Core credentials in the path /home/admin/certificates/... </li>
   <li>Download the Dateset:Epilepsy by Villar et al. to the path /home/admin/seizure_device/... and name it "Epilepsy_Dataset"</li>
 </ul>
