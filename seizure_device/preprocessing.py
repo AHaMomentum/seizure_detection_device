@@ -3,12 +3,6 @@ warnings.simplefilter(action='ignore', category=Warning)
 import numpy as np
 import pandas as pd
 from scipy.io import arff
-import math
-
-epi_var = b'EPILEPSY'
-walk_var = b'WALKING'
-run_var = b'RUNNING'
-saw_var = b'SAWING'
 
 #Open X-Dimension in one Dataframe
 EDTR1 = arff.loadarff('/home/admin/seizure_device/Epilepsy_Dataset/EpilepsyDimension1_TRAIN.arff')
