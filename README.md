@@ -1,6 +1,6 @@
 # seizure_detection_device
 <h2> About </h2>
-This repository comprises the source code to the algorithmic approach for a device detecting epileptic seizures using accelerometry and alerting caregivers in a timely manner via the cloud service AWS IoT Core. The approach can be reviewed in our <a href=https://www.scitepress.org/PublicationsDetail.aspx?ID=A/c89BuFNfQ=&t=1> paper </a>.
+This repository comprises the source code to the algorithmic approach for a device detecting epileptic seizures using accelerometry and alerting caregivers in a timely manner via the cloud service AWS IoT Core. The approach can be reviewed in our <a href=https://www.researchgate.net/publication/401694454_User-Centred_Design_of_a_Cost-Efficient_Mobile_Machine_Learning_Based_Seizure_Detection_Device> paper </a>.
 
 <h2>Installation</h2>
 Preconditions: 
